@@ -134,9 +134,35 @@ p.nota{
     padding: 1em;
     border-left: 0.25em solid darkblue;
     border-radius: 5px;
-    
+   }
+
+/*imágenes validadosres*/
+/*reglas comunes a los tres validadores*/
+figure.w3c.css{
+ background-image: url(" ../svg/w3c/css.svg"); 
+
+}
+figure.w3c{
+    width: 88px;
+    height: 31px;
+    background-position: 50% 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
+section.footer__pie cross-fin{
+   
+    background-color: black;
+    
+}
+h2.pechado{
+    color: aqua;
+    
+}
+.validator cross-fin{
+    
+}
 =======
 >>>>>>> 78d4824e19f1992e8485d43cad1d32be5c1f5c5a
 >>>>>>> 0ec68a677b9a5e458676f785488ca4038a36e552
